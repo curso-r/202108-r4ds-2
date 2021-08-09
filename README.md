@@ -28,6 +28,7 @@ Fora do horário de aula ou monitoria:
 | slide                              | link                                                                       |
 |:-----------------------------------|:---------------------------------------------------------------------------|
 | slides/00-introducao-ao-curso.html | <https://curso-r.github.io/main-r4ds-2/slides/00-introducao-ao-curso.html> |
+| slides/01-organizacao-projeto.html | <https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html> |
 
 ## Scripts utilizados em aula
 
