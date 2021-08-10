@@ -47,15 +47,15 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| Aula | Descrição                                                                                                                                                                                                                                                                                                                      |
-|-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1 | [Faça um documento em R Markdown mostrando as 10 delegacias com mais roubo de carro no Estado de SP. Use a base “ssp” presente na pasta “data” no material do curso. Faça isso seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/02-organizacao-projeto.html) |
+| Aula | Descrição                                                                                                                                                                                                                                                                                                                        |
+|-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | [Faça um documento em R Markdown mostrando as 10 delegacias com mais roubo de carro no Estado de SP. Use a base “ssp” presente na pasta “data” no material do curso. Faça isso seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html#1) |
 
 ## Lição de casa extra 🤓
 
-| Aula | Descrição                                                                                                                                                                                       |
-|-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1 | [Reorganize alguma análise que você já fez no R seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/02-organizacao-projeto.html) |
+| Aula | Descrição                                                                                                                                                                                         |
+|-----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | [Reorganize alguma análise que você já fez no R seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html#1) |
 
 ## Material extra
 
