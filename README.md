@@ -68,8 +68,9 @@ Referências extras comentadas nas aulas.
 Materiais que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
-| Aula | Tema | Descrição |
-|-----:|:-----|:----------|
+| Aula | Tema             | Descrição                                                |
+|-----:|:-----------------|:---------------------------------------------------------|
+|    1 | Conversa/Dúvidas | [Criando funções](https://r4ds.had.co.nz/functions.html) |
 
 ## Redes sociais da Curso-R
 
