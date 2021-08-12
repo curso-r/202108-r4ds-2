@@ -67,6 +67,8 @@ knitr::kable(
 
 ### Parte prática
 
+- [Repositório da análise dos dados do Brasileirão](https://github.com/curso-r/analiseBrasileirao)
+
 ```{r}
 pasta <- "pratica/"
 knitr::kable(
