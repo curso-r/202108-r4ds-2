@@ -36,8 +36,9 @@ Fora do horário de aula ou monitoria:
 
 ### Parte teórica
 
-| script | link |
-|:-------|:-----|
+| script   | link                                                       |
+|:---------|:-----------------------------------------------------------|
+| aula_2.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula_2.R> |
 
 ### Parte prática
 
