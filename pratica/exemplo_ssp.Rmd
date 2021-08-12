@@ -1,0 +1,24 @@
+---
+title: "SSP"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r, echo=FALSE}
+library(dplyr)
+```
+
+```{r}
+ssp <- readr::read_rds("../data/ssp.rds")
+ssp %>% 
+  group_by(delegacia_nome) %>% 
+  summarise(roubo_veiculo = sum(roubo_veiculo)) %>% 
+  slice_max(roubo_veiculo, n = 10)
+```
+
+
+
