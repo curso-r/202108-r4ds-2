@@ -44,20 +44,27 @@ Fora do horário de aula ou monitoria:
 -   [Repositório da análise dos dados do
     Brasileirão](https://github.com/curso-r/analiseBrasileirao)
 
-| script | link |
-|:-------|:-----|
+| script           | link                                                              |
+|:-----------------|:------------------------------------------------------------------|
+| aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
+| exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
 
 ## Lição de casa
 
 | Aula | Descrição                                                                                                                                                                                                                                                                                                                        |
 |-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    1 | [Faça um documento em R Markdown mostrando as 10 delegacias com mais roubo de carro no Estado de SP. Use a base “ssp” presente na pasta “data” no material do curso. Faça isso seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html#1) |
+|    2 | [Exercícios de dplyr 1.0](https://livro.curso-r.com/7-2-dplyr.html#exerc%C3%ADcios-17)                                                                                                                                                                                                                                           |
+|    2 | [Exercícios de tidyr](https://livro.curso-r.com/7-3-tidyr.html#exerc%C3%ADcios-18)                                                                                                                                                                                                                                               |
 
 ## Lição de casa extra 🤓
 
 | Aula | Descrição                                                                                                                                                                                         |
 |-----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    1 | [Reorganize alguma análise que você já fez no R seguindo o modelo de organização de projetos visto na primeira aula.](https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html#1) |
+|    2 | [Fazer uma tabela do lucro médio anual dos filmes de comédia, ação e romance (2000 a 2016)](https://github.com/curso-r/livro-material/raw/master/assets/data/imdb.rds)                            |
+|    2 | [Calcular o lucro médio por gênero do filme na base IMDB](https://github.com/curso-r/livro-material/raw/master/assets/data/imdb.rds)                                                              |
+|    2 | [Fazer gráficos de dispersão do lucro vs todas as outras variáveis núméricas da base IMDB](https://github.com/curso-r/livro-material/raw/master/assets/data/imdb.rds)                             |
 
 ## Material extra
 

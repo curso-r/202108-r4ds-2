@@ -15,7 +15,7 @@ library(magrittr)
 
 main_repo <- "main-r4ds-2"
 turma <- "202108-r4ds-2"
-num_aula <- 1
+num_aula <- 2
 ```
 
 ## Referências do curso
@@ -73,7 +73,7 @@ knitr::kable(
 pasta <- "pratica/"
 knitr::kable(
   tibble::tibble(
-    script = list.files(pasta, pattern = "R$"),
+    script = list.files(pasta, pattern = "R$|Rmd$"),
     link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
   )
 )
