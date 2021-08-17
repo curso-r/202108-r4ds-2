@@ -32,6 +32,7 @@ Fora do horário de aula ou monitoria:
 | slides/02-dplyr-plus.html          | <https://curso-r.github.io/main-r4ds-2/slides/02-dplyr-plus.html>          |
 | slides/03-tidyr.html               | <https://curso-r.github.io/main-r4ds-2/slides/03-tidyr.html>               |
 | slides/04-stringr.html             | <https://curso-r.github.io/main-r4ds-2/slides/04-stringr.html>             |
+| slides/05-lubridate.html           | <https://curso-r.github.io/main-r4ds-2/slides/05-lubridate.html>           |
 
 ## Scripts utilizados em aula
 
@@ -46,11 +47,18 @@ Fora do horário de aula ou monitoria:
 -   [Repositório da análise dos dados do
     Brasileirão](https://github.com/curso-r/analiseBrasileirao)
 
+<<<<<<< HEAD
 | script           | link                                                              |
 |:-----------------|:------------------------------------------------------------------|
 | aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
 | aula-3.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>        |
 | exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
+=======
+| script          | link                                                              |
+|:----------------|:------------------------------------------------------------------|
+| aula-2.R        | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
+| exemplo_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
+>>>>>>> 4a3ea8f4bf537d56c0714b2eeeba29a19701eb09
 
 ## Lição de casa
 
