@@ -47,8 +47,10 @@ Fora do horário de aula ou monitoria:
 -   [Repositório da análise dos dados do
     Brasileirão](https://github.com/curso-r/analiseBrasileirao)
 
-| script | link |
-|:-------|:-----|
+| script          | link                                                              |
+|:----------------|:------------------------------------------------------------------|
+| aula-2.R        | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
+| exemplo_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
 
 ## Lição de casa
 

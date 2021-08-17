@@ -73,7 +73,7 @@ knitr::kable(
 pasta <- "pratica/"
 knitr::kable(
   tibble::tibble(
-    script = list.files(pasta, pattern = "R$"),
+    script = list.files(pasta, pattern = "R$|Rmd$"),
     link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
   )
 )
