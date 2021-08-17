@@ -37,9 +37,9 @@ Fora do horário de aula ou monitoria:
 
 ### Parte teórica
 
-| script   | link                                                       |
-|:---------|:-----------------------------------------------------------|
-| aula_2.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula_2.R> |
+| script    | link                                                       |
+|:----------|:-----------------------------------------------------------|
+| aula\_2.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula_2.R> |
 
 ### Parte prática
 
@@ -49,6 +49,7 @@ Fora do horário de aula ou monitoria:
 | script           | link                                                              |
 |:-----------------|:------------------------------------------------------------------|
 | aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
+| aula-3.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>        |
 | exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
 
 ## Lição de casa
