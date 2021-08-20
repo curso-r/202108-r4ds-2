@@ -37,9 +37,10 @@ Fora do horário de aula ou monitoria:
 
 ### Parte teórica
 
-| script    | link                                                       |
-|:----------|:-----------------------------------------------------------|
-| aula\_2.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula_2.R> |
+| script   | link                                                       |
+|:---------|:-----------------------------------------------------------|
+| aula-2.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula-2.R> |
+| aula-4.R | <https://curso-r.github.io/202108-r4ds-2/scripts/aula-4.R> |
 
 ### Parte prática
 
@@ -78,20 +79,25 @@ Fora do horário de aula ou monitoria:
 
 Referências extras comentadas nas aulas.
 
-| Aula | Tema         | Descrição                                                                                  |
-|-----:|:-------------|:-------------------------------------------------------------------------------------------|
-|    1 | Dados extras | [Pacote brasileirao](https://github.com/williamorim/brasileirao)                           |
-|    3 | Regex        | [Colinha do {stringr}](https://www.rstudio.com/resources/cheatsheets/)                     |
-|    3 | Regex        | [Documentação das regex no R](https://stringi.gagolewski.com/rapi/about_search_regex.html) |
-|    3 | Regex        | [Regex interativo](https://regex101.com/)                                                  |
+| Aula | Tema         | Descrição                                                                                                  |
+|-----:|:-------------|:-----------------------------------------------------------------------------------------------------------|
+|    1 | Dados extras | [Pacote brasileirao](https://github.com/williamorim/brasileirao)                                           |
+|    2 | Manual       | [Colinha do {dplyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-transformation.pdf) |
+|    2 | Manual       | [Colinha do {tidyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-import.pdf)         |
+|    3 | Manual       | [Colinha do {stringr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/strings.pdf)           |
+|    3 | Manual       | [Documentação das regex no R](https://stringi.gagolewski.com/rapi/about_search_regex.html)                 |
+|    3 | Regex        | [Regex interativo](https://regex101.com/)                                                                  |
+|    4 | Manual       | [Colinha do {lubridate}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/lubridate.pdf)       |
+|    4 | Manual       | [Colinha do {forcats}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/factors.pdf)           |
 
 Materiais que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
-| Aula | Tema             | Descrição                                                                   |
-|-----:|:-----------------|:----------------------------------------------------------------------------|
-|    1 | Conversa/Dúvidas | [Criando funções](https://r4ds.had.co.nz/functions.html)                    |
-|    3 | Conversa/Dúvidas | [Transliteração](https://blog.curso-r.com/posts/2019-08-29-transliteracao/) |
+| Aula | Tema             | Descrição                                                                     |
+|-----:|:-----------------|:------------------------------------------------------------------------------|
+|    1 | Conversa/Dúvidas | [Criando funções](https://r4ds.had.co.nz/functions.html)                      |
+|    3 | Conversa/Dúvidas | [Transliteração](https://blog.curso-r.com/posts/2019-08-29-transliteracao/)   |
+|    4 | Conversa/Dúvidas | [Códigos para abreviar datas](https://www.stat.berkeley.edu/~s133/dates.html) |
 
 ## Redes sociais da Curso-R
 
