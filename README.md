@@ -29,10 +29,9 @@ Fora do horário de aula ou monitoria:
 |:-----------------------------------|:---------------------------------------------------------------------------|
 | slides/00-introducao-ao-curso.html | <https://curso-r.github.io/main-r4ds-2/slides/00-introducao-ao-curso.html> |
 | slides/01-organizacao-projeto.html | <https://curso-r.github.io/main-r4ds-2/slides/01-organizacao-projeto.html> |
-| slides/02-dplyr-plus.html          | <https://curso-r.github.io/main-r4ds-2/slides/02-dplyr-plus.html>          |
-| slides/03-tidyr.html               | <https://curso-r.github.io/main-r4ds-2/slides/03-tidyr.html>               |
-| slides/04-stringr.html             | <https://curso-r.github.io/main-r4ds-2/slides/04-stringr.html>             |
-| slides/05-lubridate.html           | <https://curso-r.github.io/main-r4ds-2/slides/05-lubridate.html>           |
+| slides/02-dplyr-tidyr.html         | <https://curso-r.github.io/main-r4ds-2/slides/02-dplyr-tidyr.html>         |
+| slides/03-stringr.html             | <https://curso-r.github.io/main-r4ds-2/slides/03-stringr.html>             |
+| slides/04-lubridate-forcats.html   | <https://curso-r.github.io/main-r4ds-2/slides/04-lubridate-forcats.html>   |
 
 ## Scripts utilizados em aula
 
@@ -47,18 +46,11 @@ Fora do horário de aula ou monitoria:
 -   [Repositório da análise dos dados do
     Brasileirão](https://github.com/curso-r/analiseBrasileirao)
 
-<<<<<<< HEAD
 | script           | link                                                              |
 |:-----------------|:------------------------------------------------------------------|
 | aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
 | aula-3.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>        |
 | exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
-=======
-| script          | link                                                              |
-|:----------------|:------------------------------------------------------------------|
-| aula-2.R        | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
-| exemplo_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
->>>>>>> 4a3ea8f4bf537d56c0714b2eeeba29a19701eb09
 
 ## Lição de casa
 
@@ -68,6 +60,8 @@ Fora do horário de aula ou monitoria:
 |    2 | [Exercícios de dplyr 1.0](https://livro.curso-r.com/7-2-dplyr.html#exerc%C3%ADcios-17)                                                                                                                                                                                                                                           |
 |    2 | [Exercícios de tidyr](https://livro.curso-r.com/7-3-tidyr.html#exerc%C3%ADcios-18)                                                                                                                                                                                                                                               |
 |    3 | [Exercícios stringr](https://livro.curso-r.com/7-4-o-pacote-stringr.html#exerc%C3%ADcios-19)                                                                                                                                                                                                                                     |
+|    4 | [Exercícios lubridate](https://livro.curso-r.com/7-5-o-pacote-lubridate.html#exerc%C3%ADcios-20)                                                                                                                                                                                                                                 |
+|    4 | [Exercícios forcats](https://livro.curso-r.com/7-6-forcats.html#exerc%C3%ADcios-21)                                                                                                                                                                                                                                              |
 
 ## Lição de casa extra 🤓
 
@@ -78,6 +72,7 @@ Fora do horário de aula ou monitoria:
 |    2 | [Calcular o lucro médio por gênero do filme na base IMDB](https://github.com/curso-r/livro-material/raw/master/assets/data/imdb.rds)                                                              |
 |    2 | [Fazer gráficos de dispersão do lucro vs todas as outras variáveis núméricas da base IMDB](https://github.com/curso-r/livro-material/raw/master/assets/data/imdb.rds)                             |
 |    3 | [Exercícios extras de stringr](https://curso-r.github.io/202104-r4ds-2/pratica/99-exercicios-extras-stringr.R)                                                                                    |
+|    4 | [forcats: leitura extra](https://livro.curso-r.com/7-6-forcats.html#forcats)                                                                                                                      |
 
 ## Material extra
 
