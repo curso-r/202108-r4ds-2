@@ -1,6 +1,7 @@
 library(dplyr)
 library(stringr)
 
+# Web scraping
 ### scrape ####
 url <- "https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_episodes"
 
@@ -47,6 +48,26 @@ tab %>%
   View()
 
 #ou da pra ir direto no lubridate?
+
+tab %>%         
+  mutate(         
+    original_air_date = ifelse(         
+      is.na(original_air_date),         
+      original_air_date_38,         
+      original_air_date         
+    )         
+  ) %>% 
+  mutate(
+    original_air_date = str_remove(original_air_date, "[(0-9)-]*$"),
+    original_air_date = str_squish(original_air_date),
+    original_air_date = lubridate::mdy(original_air_date)
+    # original_air_date = readr::parse_date(original_air_date, format = "%B %d, %Y")
+  ) %>% 
+  View()
+
+str_remove("December 2, 2013 (2013-12-02)", " [(0-9)-]*$")
+lubridate::mdy("Dec 2 2013")
+
 
 # playground
 
