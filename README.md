@@ -53,6 +53,7 @@ Fora do horário de aula ou monitoria:
 |:-----------------|:------------------------------------------------------------------|
 | aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
 | aula-3.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>        |
+| aula-5.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-5.R>        |
 | exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
 
 ## Lição de casa
