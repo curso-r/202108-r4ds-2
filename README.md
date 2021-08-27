@@ -51,13 +51,14 @@ Fora do horário de aula ou monitoria:
 -   [Repositório da análise dos dados do
     Brasileirão](https://github.com/curso-r/analiseBrasileirao)
 
-| script           | link                                                              |
-|:-----------------|:------------------------------------------------------------------|
-| aula-2.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>        |
-| aula-3.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>        |
-| aula-5.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-5.R>        |
-| aula-6.R         | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-6.R>        |
-| exemplo\_ssp.Rmd | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd> |
+| script            | link                                                               |
+|:------------------|:-------------------------------------------------------------------|
+| aula-2.R          | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-2.R>         |
+| aula-3.R          | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-3.R>         |
+| aula-5.R          | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-5.R>         |
+| aula-6.R          | <https://curso-r.github.io/202108-r4ds-2/pratica/aula-6.R>         |
+| exemplo\_series.R | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_series.R> |
+| exemplo\_ssp.Rmd  | <https://curso-r.github.io/202108-r4ds-2/pratica/exemplo_ssp.Rmd>  |
 
 ## Lição de casa
 
